@@ -11,3 +11,6 @@ Growth Mind Set - How can i keep a growth mind set
 
 Tools to use
 1. friends
+
+i used the following script for todays lab
+https://github.com/huner2/Cyber-Security-Scripts/blob/master/WindowsSecurity.ps1
