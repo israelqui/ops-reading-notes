@@ -1,4 +1,4 @@
-# Issraels Ops Reading Notes
+# Israels Ops Reading Notes
 
 ## Ops Radings
 
