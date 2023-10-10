@@ -15,6 +15,8 @@
 -how much is to much and do you need to much?
 -whats a peak a computer can work?
 I used this link for my reading assigment:
-https://www.wikihow.com/Build-a-Computer
-https://www.youtube.com/watch?v=MtALhv22Ltk
+- https://www.wikihow.com/Build-a-Computer
+- https://www.youtube.com/watch?v=MtALhv22Ltk
+- https://www.pcbuildadvisor.com/how-to-build-a-computer-step-by-step-infographic/
+- 
 
