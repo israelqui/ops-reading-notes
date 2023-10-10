@@ -1,8 +1,6 @@
 # Israels Ops Reading Notes
 
-## Ops Radings
-
-### Reading #1
+## Reading #1
 
 China's Spy chip
 - This topic matters as it relates to the topic in this module because learning how motherboard can be manipulated and learning the basics of its functions helps me understand how something as a hardware hack with a small chip can become something diffucult for companies and governments to deal with.
