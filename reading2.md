@@ -16,3 +16,5 @@
 -whats a peak a computer can work?
 I used this link for my reading assigment:
 https://www.wikihow.com/Build-a-Computer
+https://www.youtube.com/watch?v=MtALhv22Ltk
+
