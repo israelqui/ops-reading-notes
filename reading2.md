@@ -1,5 +1,6 @@
-# Israel Op's Reading 2
+# Israel Op's Reading
 
+## Reading 2
 ## Statement
 -this topic matters because its important to understand the basic of computer hardware and its function to further my knowdlegde and undertand concepts how to manipulate them in future lessons.
 ## Question
