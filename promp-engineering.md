@@ -1,4 +1,4 @@
-# prompt-engineering.md
+# Prompt-Engineering.md
 Ai and Prompt Engineering
 ## What is the most common ingredient on a fragrance formula used in perfumes?
 - My open AI of choice did not give me a direct answer but a more informative and understanding answer. A person who hasn't worked or studied would get an idea of how perfumes are made now. Since perfumes have complex formulas and now science is able to recreate ingredients i.e animal ingredients.
